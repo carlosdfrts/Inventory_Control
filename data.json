@@ -1,0 +1,126 @@
+{
+    "shampoo": {
+        "masculino": {
+            "Malbec Shampoo": {
+                "quantidade": 14,
+                "preco": 23.0
+            },
+            "Men shampoo": {
+                "quantidade": 10,
+                "preco": 17.0
+            }
+        },
+        "feminino": {
+            "Nativa SPA - Ameixa": {
+                "quantidade": 20,
+                "preco": 29.0
+            },
+            "Nativa SPA - Quinoa": {
+                "quantidade": 0,
+                "preco": 38.0
+            },
+            "Nativa SPA - Morango Ruby": {
+                "quantidade": 10,
+                "preco": 36.0
+            }
+        },
+        "infantil": {
+            "Johnson's Baby": {
+                "quantidade": 12,
+                "preco": 20.0
+            },
+            "MHuggies Extra Suave": {
+                "quantidade": 20,
+                "preco": 35.0
+            },
+            "Granado Beb\u00c3\u00aa Lavanda": {
+                "quantidade": 20,
+                "preco": 23.0
+            }
+        }
+    },
+    "perfume": {
+        "masculino": {
+            "Malbec": {
+                "quantidade": 10,
+                "preco": 100.0
+            },
+            "Quasar": {
+                "quantidade": 10,
+                "preco": 238.0
+            },
+            "Dove Man Care": {
+                "quantidade": 0,
+                "preco": 170.0
+            },
+            "Animale For Men Eau de Toilette": {
+                "quantidade": 10,
+                "preco": 170.0
+            },
+            "Scuderia Ferrari Black": {
+                "quantidade": 10,
+                "preco": 270.0
+            }
+        },
+        "feminino": {
+            "Lily": {
+                "quantidade": 10,
+                "preco": 200.0
+            },
+            "Jadore Dior": {
+                "quantidade": 20,
+                "preco": 380.0
+            },
+            "Carolina Herrera": {
+                "quantidade": 20,
+                "preco": 230.0
+            },
+            "Givenchy": {
+                "quantidade": 20,
+                "preco": 310.0
+            },
+            "Coffe Woman": {
+                "quantidade": 20,
+                "preco": 180.0
+            }
+        },
+        "infantil": {
+            "Sophie": {
+                "quantidade": 31,
+                "preco": 80.0
+            },
+            "Mam\u00c3\u00a3e e Beb\u00c3\u00aa": {
+                "quantidade": 20,
+                "preco": 120.0
+            },
+            "Granado": {
+                "quantidade": 20,
+                "preco": 90.0
+            }
+        }
+    },
+    "batom": {
+        "unisex": {
+            "Make B": {
+                "quantidade": 10,
+                "preco": 70.0
+            },
+            "M\u00c2\u00b7A\u00c2\u00b7C Ruby Woo.": {
+                "quantidade": 10,
+                "preco": 92.0
+            },
+            "Bruna Tavares Lips": {
+                "quantidade": 10,
+                "preco": 72.0
+            },
+            "Velvet Teddy": {
+                "quantidade": 10,
+                "preco": 125.0
+            },
+            "Flat Out Fabulous.": {
+                "quantidade": 0,
+                "preco": 77.0
+            }
+        }
+    }
+}
